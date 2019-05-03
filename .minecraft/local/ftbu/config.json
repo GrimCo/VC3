@@ -35,7 +35,8 @@
       "Welcome to Vaygrim\u0027s Chance Season 3!"
     ],
     "starting_items": [
-      "minecraft:apple 16 0"
+      "minecraft:apple 16 0",
+        "TardisMod:item.TardisMod.TardisKey 1 0"
     ]
   },
   "permissions_admin": {
@@ -49,9 +50,9 @@
     "dimension_blacklist": [],
     "forced_chunk_security": "-",
     "forced_explosions": "-",
-    "max_claims": 1000,
-    "max_homes": 100,
-    "max_loaded_chunks": 50,
+    "max_claims": 81,
+    "max_homes": 2,
+    "max_loaded_chunks": 25,
     "show_rank": true
   },
   "permissions_player": {
