@@ -36,7 +36,7 @@
     ],
     "starting_items": [
       "minecraft:apple 16 0",
-        "TardisMod:item.TardisMod.TardisKey 1 0"
+      "TardisMod:item.TardisMod.TardisKey 1 0"
     ]
   },
   "permissions_admin": {

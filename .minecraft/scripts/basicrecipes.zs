@@ -17,11 +17,6 @@ recipes.addShaped(<minecraft:ghast_tear>,
  [<minecraft:blaze_powder>, <minecraft:diamond>, <minecraft:blaze_powder>],
  [<minecraft:feather>, <minecraft:blaze_powder>, <minecraft:feather>]]);
 
-recipes.addShaped(<ExtraUtilities:plant/ender_lilly>,
-[[<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>],
- [<minecraft:ender_pearl>, <minecraft:wheat_seeds>, <minecraft:ender_pearl>],
- [<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>]]);
-
 recipes.addShaped(<minecraft:torch> * 4,
 [[<minecraft:coal>, null, null],
  [<ForgeMicroblock:stoneRod>, null, null],
